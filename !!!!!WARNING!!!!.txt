@@ -1,0 +1,19 @@
+__WARNING__
+
+don't try this on your own pc *I mean* try this on your virtual Machine 
+this is open source and free to use , if you want to copy or use in in your own
+program then it is good BUTT dont forget to give redits at the top or else
+
+__how_it_works__
+
+if u notice the source code properly , it acctually starts and open many program
+includind error.vbs which is nothing but just a mess its job is to
+create those dilouge boxes and it'll start itself which multiply it's power by
+double ad again and again and text.bat which is not required by the way KILLBOT itself is 
+strong enough but text.bat acctually it would make directry instde another inside another
+and ANOTHER 
+
+
+aNd___
+
+whole process is repeted for infinit times
